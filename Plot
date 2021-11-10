@@ -1,0 +1,5 @@
+x = np.array([1,6])
+y = np.array([5,10])
+
+plt.plot(x, y)
+plt.show()
